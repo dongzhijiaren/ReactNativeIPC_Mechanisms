@@ -7,7 +7,7 @@
 ------
 
 ## 1.1 传统APP几种主要的开发方法
-![avatar](http://git.pptv.com/17061635/share/raw/master/%E5%85%B1%E4%BA%AB%E6%96%87%E6%A1%A3/%E5%BC%A0%E6%A0%8B/React%20Native/images/rn1.png)
+![avatar](https://raw.githubusercontent.com/dongzhijiaren/ReactNativeIPC_Mechanisms/master/images/rn1.png)
 
 
 ----------
@@ -34,12 +34,12 @@ https://reactnative.cn/
 vs code、webstorm、sublime等
 
 ## 1.5 React Native的开发模式，如下图所示：
-![avatar](http://git.pptv.com/17061635/share/raw/master/%E5%85%B1%E4%BA%AB%E6%96%87%E6%A1%A3/%E5%BC%A0%E6%A0%8B/React%20Native/images/rn2.png)
+![avatar](https://raw.githubusercontent.com/dongzhijiaren/ReactNativeIPC_Mechanisms/master/images/rn2.png)
 
 ## 1.6 React Native的通信机制，如下图所示：
-![avatar](http://git.pptv.com/17061635/share/raw/master/%E5%85%B1%E4%BA%AB%E6%96%87%E6%A1%A3/%E5%BC%A0%E6%A0%8B/React%20Native/images/rn3.png)
+![avatar](https://raw.githubusercontent.com/dongzhijiaren/ReactNativeIPC_Mechanisms/master/images/rn3.png)
 
-![avatar](http://git.pptv.com/17061635/share/raw/master/%E5%85%B1%E4%BA%AB%E6%96%87%E6%A1%A3/%E5%BC%A0%E6%A0%8B/React%20Native/images/rn4.png)
+![avatar](https://raw.githubusercontent.com/dongzhijiaren/ReactNativeIPC_Mechanisms/master/images/rn4.png)
 
 ## 1.7 原理详解(以OC为例)：
 
@@ -69,7 +69,7 @@ JS和OC交互主要是由它实现的
 
 
 ## 2.1 组件的生命周期
-![avatar](http://git.pptv.com/17061635/share/raw/master/%E5%85%B1%E4%BA%AB%E6%96%87%E6%A1%A3/%E5%BC%A0%E6%A0%8B/React%20Native/images/rn5.jpg)
+![avatar](https://raw.githubusercontent.com/dongzhijiaren/ReactNativeIPC_Mechanisms/master/images/rn5.jpg)
 
 
 ## 2.2 props和state来管理组件的状态
@@ -207,7 +207,7 @@ justifyContent:'space-around',
 ## 3.1 React Native的常用导航器：react-navigation
 
 >  react-navigation的出现替代了Navigator、Ex-Navigation等老一代的导航组件，react-navigation可以说是Navigator的加强版，不仅有Navigator的全部功能，另外还支持底部导航类似于与iOS中的UITabBarController，此外它也支持侧拉效果方式的导航类似于Android中的抽屉效果。
-![avatar](http://git.pptv.com/17061635/share/raw/master/%E5%85%B1%E4%BA%AB%E6%96%87%E6%A1%A3/%E5%BC%A0%E6%A0%8B/React%20Native/images/rn6.png)
+![avatar](https://raw.githubusercontent.com/dongzhijiaren/ReactNativeIPC_Mechanisms/master/images/rn6.png)
 
 ## 3.2 React Native安装和导入开源框架：
 
@@ -234,8 +234,8 @@ Menu。也可以通过模拟器上的菜单键来打开。
 > * Console 面板：用于显示脚本中所输出的调试信息，或运行测试脚本等。
 
 ## 3.4 调试工具
-![avatar](http://git.pptv.com/17061635/share/raw/master/%E5%85%B1%E4%BA%AB%E6%96%87%E6%A1%A3/%E5%BC%A0%E6%A0%8B/React%20Native/images/rn7.png)
+![avatar](https://raw.githubusercontent.com/dongzhijiaren/ReactNativeIPC_Mechanisms/master/images/rn7.png)
 
 
 ## 3.5 React Native和Flutter比较
-![avatar](http://git.pptv.com/17061635/share/raw/master/%E5%85%B1%E4%BA%AB%E6%96%87%E6%A1%A3/%E5%BC%A0%E6%A0%8B/React%20Native/images/rn8.png)
+![avatar](https://raw.githubusercontent.com/dongzhijiaren/ReactNativeIPC_Mechanisms/master/images/rn8.png)
